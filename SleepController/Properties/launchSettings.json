@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SleepController": {
+      "commandName": "Project",
+      "commandLineArgs": "/v"
+    }
+  }
+}
